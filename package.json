@@ -1,0 +1,36 @@
+{
+  "name": "alfred-cdnjs",
+  "version": "1.0.0",
+  "repository": "chitacan/alfred-cdnjs",
+  "description": "Alfred 3 workflow to search libs on cdnjs",
+  "main": "src/index.js",
+  "scripts": {
+    "postinstall": "alfy-init",
+    "preunisntall": "alfy-cleanup",
+    "test": "xo && ava"
+  },
+  "author": "chitacan",
+  "license": "MIT",
+  "dependencies": {
+    "alfy": "^0.6.0"
+  },
+  "devDependencies": {
+    "alfy-test": "^0.3.0",
+    "ava": "^0.17.0",
+    "xo": "^0.17.1"
+  },
+  "keywords": [
+    "alfred",
+    "alfred-workflow",
+    "alfy",
+    "cdnjs"
+  ],
+  "files": [
+    "index.js",
+    "icon.png",
+    "info.plist"
+  ],
+  "xo": {
+    "space": true
+  }
+}

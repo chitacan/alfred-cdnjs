@@ -12,6 +12,6 @@ $ npm install -g alfred-cdnjs
 
 ## Usage
 
-In Alfred, type `cdn`, <kdb>Enter</kdb> and type library name to search.
+In Alfred, type `cdn`, <kbd>Enter</kbd> and type library name to search.
 
-Select library and press <kdb>Enter</kdb> to copy latest library url in your clipboard. Hold <kdb>alt</kdb> when pressing <kdb>Enter</kdb> to open its cdnjs page.
+Select library and press <kbd>Enter</kbd> to copy latest library url in your clipboard. Hold <kbd>Alt</kbd> when pressing <kbd>Enter</kbd> to open its cdnjs page.
